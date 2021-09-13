@@ -1,16 +1,7 @@
-# tinder_login
+# Tinder Plugin Login Screen
 
-A new Flutter project.
+[Desafio](https://youtu.be/9zkKGkFj3qg?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) proposto pelo canal [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/49538805/108611749-56140600-73c0-11eb-8e1b-4f498353b01c.gif" width="280">
+</div>
