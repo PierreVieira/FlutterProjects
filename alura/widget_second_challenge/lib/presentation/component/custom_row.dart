@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:widget_second_challenge/domain/model/SquareColor.dart';
-import 'package:widget_second_challenge/presentation/component/square.dart';
+import 'package:widget_second_challenge/presentation/component/rectangle.dart';
 
 class CustomRow extends StatelessWidget {
   final SquareColor first;
@@ -20,9 +20,15 @@ class CustomRow extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.start,
         children: [
-          Square(color: first),
-          Square(color: second),
-          Square(color: third),
+          Rectangle(color: first),
+          Rectangle(
+            color: second,
+            icon: const Icon(
+              Icons.person,
+              color: Colors.black,
+            ),
+          ),
+          Rectangle(color: third),
         ],
       ),
     );
